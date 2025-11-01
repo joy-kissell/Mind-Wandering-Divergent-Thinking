@@ -51,9 +51,11 @@ Analyses performed in **R**:
 
 ## 📁 Repository Contents
 
-- `mind_wandering_analysis.R` – main analysis script   
-- `outputs/` – regression results, ANOVA tables, plots  
-- `mind_wandering_report.html` – rendered report with visualizations and results  
+- [`FinalProject.R`](FinalProject.R) – main R script containing all data cleaning, analysis, and visualization code  
+- [`Outputs+Visualization/`](Outputs+Visualization/) – folder with regression results, ANOVA tables, and plots  
+- [`RM Project Writeup.pdf`](RM%20Project%20Writeup.pdf) – detailed project writeup describing workflow, analysis, and findings  
+- [`README.md`](README.md) – project overview, methods, and references
+
 
 ---
 
