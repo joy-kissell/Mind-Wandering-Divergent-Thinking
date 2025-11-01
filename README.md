@@ -1,6 +1,7 @@
 # Mind-Wandering and Divergent Thinking
 
-Final project for **PSYC 5323 RM: R in Psychology**
+Final project for **PSYC 5323 RM: R in Psychology** 
+**Completed May 2024**
 
 This project explores the relationship between **mind-wandering** and **creative thinking ability** using data from the study *Executive Control, Mind Wandering, and Divergent Thinking*.  
 
